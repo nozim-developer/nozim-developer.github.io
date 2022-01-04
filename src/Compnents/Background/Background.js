@@ -1,0 +1,305 @@
+import React from "react";
+import "./Background.css";
+
+const Background = () => {
+  return (
+    <div className="Background">
+      <svg
+        className="svg_vektor_1"
+        width="271"
+        height="261"
+        viewBox="0 0 271 261"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_2_9)">
+          <ellipse
+            cx="135.5"
+            cy="130.5"
+            rx="70.5"
+            ry="65.5"
+            fill="#0E85F3"
+            fillOpacity={0.22}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_2_9"
+            x="0"
+            y="0"
+            width="271"
+            height="261"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="32.5"
+              result="effect1_foregroundBlur_2_9"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_2"
+        width="179"
+        height="181"
+        viewBox="0 0 179 181"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_2_10)">
+          <ellipse
+            cx="89.5"
+            cy="90.5"
+            rx="47.5"
+            ry="48.5"
+            fill="#0E85F3"
+            fillOpacity={0.16}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_2_10"
+            x="0"
+            y="0"
+            width="179"
+            height="181"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="21"
+              result="effect1_foregroundBlur_2_10"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_3"
+        width="250"
+        height="241"
+        viewBox="0 0 250 241"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_2_11)">
+          <ellipse
+            cx="125"
+            cy="120.5"
+            rx="71"
+            ry="66.5"
+            fill="#0E85F3"
+            fillOpacity={0.23}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_2_11"
+            x="0"
+            y="0"
+            width="250"
+            height="241"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="27"
+              result="effect1_foregroundBlur_2_11"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_4"
+        width="305"
+        height="316"
+        viewBox="0 0 305 316"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_6_311)">
+          <ellipse
+            cx="152.5"
+            cy="158"
+            rx="98.5"
+            ry="104"
+            fill="#0E85F3"
+            fillOpacity={0.19}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_6_311"
+            x="0"
+            y="0"
+            width="305"
+            height="316"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="27"
+              result="effect1_foregroundBlur_6_311"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_5"
+        width="223"
+        height="212"
+        viewBox="0 0 223 212"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_6_312)">
+          <ellipse
+            cx="111.5"
+            cy="106"
+            rx="57.5"
+            ry="52"
+            fill="#0E85F3"
+            fillOpacity={0.19}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_6_312"
+            x="0"
+            y="0"
+            width="223"
+            height="212"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="27"
+              result="effect1_foregroundBlur_6_312"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_6"
+        width="305"
+        height="316"
+        viewBox="0 0 305 316"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_9_20)">
+          <ellipse
+            cx="152.5"
+            cy="158"
+            rx="98.5"
+            ry="104"
+            fill="#0E85F3"
+            fillOpacity={0.19}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_9_20"
+            x="0"
+            y="0"
+            width="305"
+            height="316"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="27"
+              result="effect1_foregroundBlur_9_20"
+            />
+          </filter>
+        </defs>
+      </svg>
+      <svg
+        className="svg_vektor_7"
+        width="262"
+        height="253"
+        viewBox="0 0 262 253"
+        fill="none"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <g filter="url(#filter0_f_9_23)">
+          <ellipse
+            cx="131"
+            cy="126.5"
+            rx="77"
+            ry="72.5"
+            fill="#0E85F3"
+            fillOpacity={0.19}
+          />
+        </g>
+        <defs>
+          <filter
+            id="filter0_f_9_23"
+            x="0"
+            y="0"
+            width="262"
+            height="253"
+            filterUnits="userSpaceOnUse"
+            colorInterpolationFilters="sRGB"
+          >
+            <feFlood floodOpacity={0} result="BackgroundImageFix" />
+            <feBlend
+              mode="normal"
+              in="SourceGraphic"
+              in2="BackgroundImageFix"
+              result="shape"
+            />
+            <feGaussianBlur
+              stdDeviation="27"
+              result="effect1_foregroundBlur_9_23"
+            />
+          </filter>
+        </defs>
+      </svg>
+    </div>
+  );
+};
+
+export default Background;

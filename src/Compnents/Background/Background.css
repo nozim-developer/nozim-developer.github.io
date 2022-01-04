@@ -1,0 +1,98 @@
+.Background {
+  position: absolute;
+  width: 70vw;
+  height: 1664px;
+  /* left: 167px; */
+  top: 134px;
+  display: block;
+  /* border: 2px solid red; */
+}
+
+.svg_vektor_1 {
+  /* Ellipse 1 */
+
+  position: absolute;
+  width: 141px;
+  height: 131px;
+  left: 26px;
+  top: 26px;
+  /* border: 2px solid red; */
+  /* z-index: 12;
+  /* background: rgba(14, 133, 243, 0.22);
+  filter: blur(65px); */
+}
+.svg_vektor_2 {
+  position: absolute;
+  width: 95px;
+  height: 97px;
+  left: 77px;
+  top: 525px;
+/* 
+  background: rgba(14, 133, 243, 0.16);
+  filter: blur(42px); */
+}
+.svg_vektor_3 {
+  /* Ellipse 3 */
+
+  position: absolute;
+  width: 142px;
+  height: 433px;
+  left: 464px;
+  top: -20px;
+/* 
+  background: rgba(14, 133, 243, 0.23);
+  filter: blur(54px); */
+}
+.svg_vektor_4 {
+  /* Ellipse 4 */
+
+  position: absolute;
+  width: 197px;
+  height: 208px;
+  left: 720px;
+  top: 989px;
+  /* border: inherit; */
+/* 
+  background: rgba(14, 133, 243, 0.19);
+  filter: blur(54px); */
+}
+.svg_vektor_5 {
+  /* Ellipse 5 */
+
+  position: absolute;
+  width: 115px;
+  height: 104px;
+  left: 167px;
+  top: 1097px;
+  /* border: inherit; */
+  z-index: 3;
+/* 
+  background: rgba(14, 133, 243, 0.19);
+  filter: blur(54px); */
+}
+.svg_vektor_6 {
+  /* Ellipse 6 */
+
+  position: absolute;
+  width: 197px;
+  height: 208px;
+  left: 193px;
+  top: 1500px;
+  /* border: inherit; */
+/* 
+  background: rgba(14, 133, 243, 0.19);
+  filter: blur(54px); */
+}
+.svg_vektor_7 {
+  /* Ellipse 7 */
+
+  position: absolute;
+  width: 154px;
+  height: 145px;
+  left: 793px;
+  top: 553px;
+  /* border: inherit; */
+/* 
+  background: rgba(14, 133, 243, 0.19);
+  filter: blur(54px); */
+}
