@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.302e9e1e.js",
+    "main.css": "/static/css/main.4a4d08e3.css",
+    "main.js": "/static/js/main.8855d155.js",
     "static/js/787.3504b811.chunk.js": "/static/js/787.3504b811.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/portfolio3.svg": "/static/media/portfolio3.2b24a68070bf8e8a171cc278a56e609b.svg",
+    "static/media/SendPay.svg": "/static/media/SendPay.61030c9f8cc03fdc2091c2cff1d5ff74.svg",
+    "static/media/e-commerce.jpg": "/static/media/e-commerce.06c4aeb7874b21e737c7.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.aacca6435ca6aff39c5d6aa3cdfca7a9.svg",
     "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.302e9e1e.js.map": "/static/js/main.302e9e1e.js.map",
+    "static/media/loader.svg": "/static/media/loader.9d839992080fec81d155.svg",
+    "main.4a4d08e3.css.map": "/static/css/main.4a4d08e3.css.map",
+    "main.8855d155.js.map": "/static/js/main.8855d155.js.map",
     "787.3504b811.chunk.js.map": "/static/js/787.3504b811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.302e9e1e.js"
+    "static/css/main.4a4d08e3.css",
+    "static/js/main.8855d155.js"
   ]
 }
