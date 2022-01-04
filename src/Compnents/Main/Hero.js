@@ -336,7 +336,7 @@ const Hero = () => {
       </div>
       <div className="Hero_of_Name">
         <div className="Upper_page">
-          <div className="hi">Hi!</div>
+          <div className="hi">Hi! im nozimbek</div>
           <div className="im">I’m <span className="name_of_name">Nozimbek.</span>  <br />
           a Front-End Developer</div>
           <div className="page_title">
