@@ -619,13 +619,12 @@ body.nav-active .nav__list-item:nth-child(10) {
     top: 14px;
   }
   .Navbar_logo {
-    /* menu-icon */
 
     position: absolute;
     width: 25px;
     height: 25px;
-    left: 335px;
-    top: 21px;
+    left: 350 px;
+    top: 11px;
     display: block;
     cursor: pointer;
   }

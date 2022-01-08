@@ -25,3 +25,8 @@ html {
     margin-top:320px;
     position: fixed;
 }
+#theBurger{
+  cursor: pointer;
+  margin-bottom: 30px;
+  opacity:0;
+}

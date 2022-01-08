@@ -3,7 +3,7 @@ import "./Main.css";
 import png1 from "./Png/Logo.svg";
 import png1_1 from "./Png/portfolio3.svg";
 import png2 from "./Png/e-commerce.jpg";
-import png3 from "./Png/SendPay.svg";
+import png3 from "./Png/1img.png";
 import { ImagerDisplay, ImagerImg } from "./imager/index.js";  //imagerShow
 
 const Portfolio = () => {
@@ -41,7 +41,7 @@ const Portfolio = () => {
         <div className="elipse_1 cl"></div>
       </div>
       <div className="portfolio_3">
-        <div className="logo_of_page_sendpay">
+        {/* <div className="logo_of_page_sendpay">
           <svg
             width="51"
             height="51"
@@ -77,12 +77,12 @@ const Portfolio = () => {
               </clipPath>
             </defs>
           </svg>
-        </div>
+        </div> */}
         <div className="logo_portfolio">
-          <div className="text_logo22">Sendpay</div>
+          <a href="https://nozim-developer.github.io/Ai-Images-App/" className="text_logo22">Image App</a>
         </div>
         <div className="port_img">
-          <ImagerImg className="port_svg" src={png3} alt="ahah" images={imgs} />
+          <ImagerImg className="port_svg aiimage" src={png3} alt="ahah" images={imgs} />
 
           {/* <img className="port_svg" src={png3} alt="" /> */}
         </div>

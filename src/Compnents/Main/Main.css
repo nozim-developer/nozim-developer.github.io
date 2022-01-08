@@ -491,6 +491,11 @@
   z-index: 3;
   background: none;
 }
+.port_img img{
+  width: 289px;
+  height: 162.44px;
+  border-radius: 12px;
+}
 .elipse_1 {
   /* Ellipse 6 */
 
@@ -540,20 +545,25 @@
 }
 .text_logo22 {
   /* Sendpay */
-
+  /* border: 1px solid red; */
   position: absolute;
-  width: 113px;
+  width: 213px;
   height: 30px;
-  left: 61px;
-  top: 13px;
+  /* left: 61px; */
+  top: 3px;
 
   font-family: Montserrat;
   font-style: normal;
   font-weight: 600;
   font-size: 25px;
   line-height: 30px;
-
   color: #6c63ff;
+  text-decoration: none;
+  cursor: pointer;
+  z-index: 10;
+}
+.text_logo22:hover{
+  text-decoration: underline;
 }
 .logo_of_page_sendpay {
   /* emojione:e-mail */
@@ -1094,4 +1104,8 @@ a {
 }
 .Nav_Menu2 {
   display: none;
+}
+.port_img{
+  width: 30%;
+
 }

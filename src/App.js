@@ -47,13 +47,13 @@ function btns_bluelight() {
   document
     .querySelector(":root")
     .style.setProperty("--thumb", "rgba(255, 255, 255, 0.4)");
-    document
+  document
     .querySelector(":root")
     .style.setProperty("--color_of_hover_text_page", "white");
-    document
+  document
     .querySelector(".hi")
     .style.setProperty("color", "rgba(0, 34, 102, 1)");
-    document
+  document
     .querySelector(":root")
     .style.setProperty("--color_of_texts", "#14279b");
 }
@@ -95,10 +95,8 @@ function btns_white() {
     .querySelector(":root")
     .style.setProperty("--color_of_hover_texta", "white");
   document.querySelector(":root").style.setProperty("--thumb", "#002265");
+  document.querySelector(".hi").style.setProperty("color", "transparent");
   document
-    .querySelector(".hi")
-    .style.setProperty("color", "transparent");
-    document
     .querySelector(":root")
     .style.setProperty("--color_of_texts", "rgba(96, 138, 245, 1)");
 }
@@ -143,9 +141,7 @@ const btns_black = () => {
   document
     .querySelector(":root")
     .style.setProperty("--thumb", "rgba(255, 255, 255, 0.4)");
-    document
-    .querySelector(".hi")
-    .style.setProperty("color", "transparent");
+  document.querySelector(".hi").style.setProperty("color", "transparent");
 };
 
 function App() {
@@ -185,6 +181,7 @@ function App() {
               fill="black"
             />
           </svg>
+
         </div>
 
         <Navbar />
@@ -217,7 +214,7 @@ function App() {
             href="#contact_tag"
             className="Contact_Me_btn hover"
           >
-            Contact Me 
+            Contact Me
           </a>
         </div>
       </div>
