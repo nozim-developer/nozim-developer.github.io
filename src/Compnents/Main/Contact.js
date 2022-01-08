@@ -4,7 +4,7 @@ const Contact = () => {
   return (
     <div className="Contact">
       <div id="contact_tag"></div>
-      <a title="Github profile of Developer" href="https://github.com/nozim-coder" className="GitHub">
+      <a title="Github profile of Developer" href="https://github.com/nozim-developer" className="GitHub">
         <div className="text_github">
           <span className="hub">Git</span>hub{" "}
         </div>
