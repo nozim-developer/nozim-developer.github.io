@@ -2,9 +2,9 @@ import React from "react";
 import "./Main.css";
 import png1 from "./Png/Logo.svg";
 import png1_1 from "./Png/portfolio3.svg";
-import png2 from "./Png/e-commerce.jpg";
+import png2 from "./Png/my3.png";
 import png3 from "./Png/1img.png";
-import { ImagerDisplay, ImagerImg } from "./imager/index.js";  //imagerShow
+import { ImagerDisplay, ImagerImg } from "./imager/index.js"; //imagerShow
 
 const Portfolio = () => {
   const imgs = [png1_1, png2, png3];
@@ -31,6 +31,22 @@ const Portfolio = () => {
         <div className="elipse_1"></div>
       </div>
       <div className="portfolio_2">
+        <a  href="https://nozim-developer.github.io/travel-portal/" className="logo_portfolio">
+          {/* <div className="text_logo">E-Commerce</div> */}
+          <div className="text_logo">Travel-Portal</div>
+          <div className="page_of_logo">Website</div>
+        </a>
+        <div className="port_img">
+          <ImagerImg
+            className="port_svg"
+            src={png2}
+            alt="ahah"
+            images={imgs[png2]}
+          />
+        </div>
+        <div className="elipse_1 cl"></div>
+
+        {/* 
         <div className="logo_portfolio">
           <div className="text_logo">E-Commerce</div>
           <div className="page_of_logo">Website</div>
@@ -38,8 +54,9 @@ const Portfolio = () => {
         <div className="port_img">
           <ImagerImg className="port_svg" src={png2} alt="ahah" images={imgs} />
         </div>
-        <div className="elipse_1 cl"></div>
+        <div className="elipse_1 cl"></div> */}
       </div>
+
       <div className="portfolio_3">
         {/* <div className="logo_of_page_sendpay">
           <svg
@@ -79,10 +96,20 @@ const Portfolio = () => {
           </svg>
         </div> */}
         <div className="logo_portfolio">
-          <a href="https://nozim-developer.github.io/Ai-Images-App/" className="text_logo22">Image App</a>
+          <a
+            href="https://nozim-developer.github.io/Ai-Images-App/"
+            className="text_logo22"
+          >
+            Image App
+          </a>
         </div>
         <div className="port_img">
-          <ImagerImg className="port_svg aiimage" src={png3} alt="ahah" images={imgs} />
+          <ImagerImg
+            className="port_svg aiimage"
+            src={png3}
+            alt="ahah"
+            images={imgs}
+          />
 
           {/* <img className="port_svg" src={png3} alt="" /> */}
         </div>

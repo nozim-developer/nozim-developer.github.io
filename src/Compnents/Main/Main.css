@@ -479,6 +479,14 @@
   height: 46px;
   left: 20px;
   top: 20px;
+  z-index: 100;
+  /* border: 2px solid red; */
+}
+.logo_portfolio:hover .text_logo{
+  text-decoration: underline;
+}
+.logo_portfolio:hover .page_of_logo{
+  text-decoration: underline;
 }
 .port_img {
   /* Edtech 1 */
@@ -508,6 +516,7 @@
   background: #5f596e;
   opacity: 0.25;
   border-radius: 80%;
+  z-index: 1;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
 }
 .cl {
@@ -519,8 +528,10 @@
   font-weight: 600;
   font-size: 25px;
   line-height: 30px;
-
+  cursor: pointer;
   color: #4581f7;
+  z-index: 10;
+  /* border: 2px solid red; */
 }
 .page_of_logo {
   /* Website */
