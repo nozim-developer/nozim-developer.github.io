@@ -623,7 +623,7 @@ body.nav-active .nav__list-item:nth-child(10) {
     position: absolute;
     width: 25px;
     height: 25px;
-    left: 350 px;
+    left: 350px;
     top: 11px;
     display: block;
     cursor: pointer;
